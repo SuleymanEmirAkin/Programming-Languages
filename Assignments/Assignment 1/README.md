@@ -5,4 +5,6 @@ How to compile:
 
 How to take input:
 When you run like this ./peakasso
-If you enter 0 the program takes input from .txt file and if you enter takes input from terminal.
+If you enter 0 the program takes input from .txt file and if you enter takes input from terminal.,
+
+This is my solution there may be some bugs.
